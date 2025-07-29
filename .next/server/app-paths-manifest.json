@@ -1,0 +1,12 @@
+{
+  "/balance-sheet/page": "app/balance-sheet/page.js",
+  "/cash-flow/page": "app/cash-flow/page.js",
+  "/chart-of-accounts/page": "app/chart-of-accounts/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/general-ledger/page": "app/general-ledger/page.js",
+  "/income-statement/page": "app/income-statement/page.js",
+  "/invoicing/page": "app/invoicing/page.js",
+  "/journal-entries/page": "app/journal-entries/page.js",
+  "/reconciliations/page": "app/reconciliations/page.js",
+  "/trial-balance/page": "app/trial-balance/page.js"
+}
